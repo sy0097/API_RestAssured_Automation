@@ -1,0 +1,1 @@
+{"uuid":"afa9eb9d-0fda-47b0-8c76-f76ecbf7284e","name":"com.org.Allsuites.demo4","children":["fab0cb2b-4f70-4172-8407-b06d2a5a2439"],"description":"","befores":[{"name":"demo4","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1765474292511,"stop":1765474292511}],"afters":[],"start":1765474292511,"stop":1765474292511}
